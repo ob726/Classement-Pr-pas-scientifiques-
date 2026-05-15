@@ -18,7 +18,7 @@
     --text: #1d1d1f;
     --text2: #3a3a3c;
     --muted: #86868b;
-    --gold: #bf8600;
+    --gold: #bf8600; 
     --gold-bg: #fff8e6;
     --silver: #6e6e73;
     --bronze: #a05a2c;
